@@ -26,4 +26,4 @@
 git clone https://github.com/ton-utilisateur/gony-bot.git
 cd gony-bot
 npm install
-node index.js
+node bot.js
