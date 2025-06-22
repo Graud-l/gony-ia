@@ -23,7 +23,7 @@
 ## 🔧 Lancer GONY en Local
 
 ```bash
-git clone https://github.com/ton-utilisateur/gony-bot.git
-cd gony-bot
+git clone https://github.com/ton-utilisateur/gony-ia.git
+cd gony-ia
 npm install
 node bot.js
